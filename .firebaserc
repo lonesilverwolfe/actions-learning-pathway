@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "stitchntime-afe23"
-  }
+    "default": "stitchntime-afe23",
+    "stitch": "stitchntime-afe23"
+  },
+  "targets": {},
+  "etags": {}
 }
